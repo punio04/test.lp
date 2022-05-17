@@ -3464,3 +3464,7 @@ div#wrapper01 {
   margin-bottom: 30px;
 
 }
+
+font {
+    line-height: initial;
+}
